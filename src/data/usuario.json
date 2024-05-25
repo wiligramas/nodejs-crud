@@ -1,0 +1,23 @@
+[
+    {
+      "nome": "William Varela",
+      "email": "wiligramasdev@teste.com",
+      "senha": "123"
+    },
+    {
+      "nome": "Wiligramas Dev",
+      "email": "dev@teste.com",
+      "senha": "123"
+    },
+    {
+      "nome": "Rui Pedro",
+      "email": "rui@teste.com",
+      "senha": "123"
+    },
+    {
+      "nome": "Ana Cristina",
+      "email": "ana@teste.com",
+      "senha": "123"
+    }
+  ]
+  
